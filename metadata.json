@@ -1,0 +1,7 @@
+{
+  "name": "AgriGuard AI - Agricultural Fraud Detection",
+  "description": "A comprehensive AI-driven platform for detecting and analyzing fraudulent agricultural insurance claims using machine learning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
